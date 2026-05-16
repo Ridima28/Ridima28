@@ -1,5 +1,8 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Ridima</h1>
-<h3 align="center">Student</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ridima%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Stay%20functional()" alt="Typing introduction" />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Ridima28">
@@ -7,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🔭 I’m currently working on open source projects.
@@ -29,7 +32,7 @@
   <img src="https://streak-stats.demolab.com/?user=Ridima28&theme=merko&hide_border=true&cache_seconds=86400" alt="Ridima28's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Ridima28&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ridima's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Ridima28&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ridima 's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ridima28&theme=merko&radius=10" alt="Ridima28's Activity Graph" />
@@ -41,9 +44,9 @@
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
 
 </p>
 
@@ -60,7 +63,7 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
 
 </p>
 
@@ -86,21 +89,22 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=Ridima28)
-<br/>
-
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ridima-605aa63b2"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Ridima's LinkedIn"/></a>
-  <a href="mailto:ridimafinal@gmaol.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Ridima's Email"/></a>
+  <a href="linkedin.com/in/ridima-605aa63b2/ ">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;
+  <a href="mailto:ridimafinal@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
 </p>
 
-## 💬 Quote
-> Stay functional();
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
 
 
 <div align="center">
