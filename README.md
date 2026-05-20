@@ -83,11 +83,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ridima28">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ridima28&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 ## 🔗 Connect with Me
 <p align="center">
