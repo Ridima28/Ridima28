@@ -3,7 +3,7 @@
 
 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW50cTI5bjVmZjNtdmoxYmthN3dwcHNteTg5NHh2OW0xYTg1MHo0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Banner" width="100%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW50cTI5bjVmZjNtdmoxYmthN3dwcHNteTg5NHh2OW0xYTg1MHo0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Banner" width="100%" height= "800" />
 
 ## 📌 About Me
 - 🔭 I’m currently working on open source projects.
@@ -23,9 +23,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ridima28&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="Ridima28's GitHub Stats" />
   </a>
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Ridima28&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ridima's GitHub Trophies" />
-</p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ridima28&theme=merko&radius=10" alt="Ridima28's Activity Graph" />
 </p>
