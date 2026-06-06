@@ -1,7 +1,8 @@
+
+<img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFyMnRuazJlaDUzc3F6b2d2ZW11bWtzZ2F0bDhsZTVsMmlpN2FsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  alt="Banner" width="100%" height= "800" />
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ridima&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false"/>
 
 
-<img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFyMnRuazJlaDUzc3F6b2d2ZW11bWtzZ2F0bDhsZTVsMmlpN2FsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  alt="Banner" width="100%" height= "800" />
 
 ## 📌 About Me
 - 🔭 Working on open source projects
