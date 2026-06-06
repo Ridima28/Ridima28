@@ -17,7 +17,7 @@
 - Open source contribution
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Ridima28">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ridima28&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="Ridima28's GitHub Stats" />
