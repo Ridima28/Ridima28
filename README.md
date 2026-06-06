@@ -29,8 +29,8 @@
 
 ## 🛠️ Languages & Tools
 
-<h3 align="left">Programming Languages</h3>
-<p align="left">
+<h3 align="center">Programming Languages</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
@@ -38,8 +38,8 @@
 
 </p>
 
-<h3 align="left">Frontend</h3>
-<p align="left">
+<h3 align="center">Frontend</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
@@ -47,28 +47,29 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
 </p>
-<h3 align="left">Data</h3>
-<p align="left">
+<h3 align="center">Data</h3>
+<p align="center">
   <img src="https://camo.githubusercontent.com/c98fed68e526a4a211b85d6e5d271de02830914a72d20e8b987375e5d0074648/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7363696b69746c6561726e2f7363696b69746c6561726e2d6f726967696e616c2e737667" alt="Scikit" width="40" />&nbsp;&nbsp;
   <img src="https://camo.githubusercontent.com/f684b80941b355575a837079d1dd9cde98a38c420af80af94faaea072ffac8b8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f70616e6461732f70616e6461732d6f726967696e616c2e737667" alt="Pandas" width="40" />&nbsp;&nbsp;
   <img src="https://camo.githubusercontent.com/7a7b527e1ae676524c0664973e4dbdd6322a105fdeb7e053cee828316a3930b2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e756d70792f6e756d70792d6f726967696e616c2e737667" alt="CSS3" width="40" />&nbsp;&nbsp;
   
 </p>
 
-<h3 align="left">Database</h3>
-<p align="left">
+<h3 align="center">Database</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-  <img src="https://camo.githubusercontent.com/9d6c72e45fd3449628580a9c6e7bceeafd4c470766c2c28ffcd0ffa027333767/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a7570797465722f6a7570797465722d6f726967696e616c2e737667" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
+
 
 </p>
 
-<h3 align="left">Tools</h3>
-<p align="left">
+<h3 align="center">Tools</h3>
+<p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+  <img src="https://camo.githubusercontent.com/9d6c72e45fd3449628580a9c6e7bceeafd4c470766c2c28ffcd0ffa027333767/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a7570797465722f6a7570797465722d6f726967696e616c2e737667" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
 
 </p>
 
