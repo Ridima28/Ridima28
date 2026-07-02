@@ -1,7 +1,7 @@
 
 <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFyMnRuazJlaDUzc3F6b2d2ZW11bWtzZ2F0bDhsZTVsMmlpN2FsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  alt="Banner" width="100%" height= "800" />
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Ridima</h1>
+<h1 align="center">Hey, I'm Ridima</h1>
 
 
 
