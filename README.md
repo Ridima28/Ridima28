@@ -6,15 +6,15 @@
 
 
 ## 📌 About Me
-- 🔭 Working on open source projects
-- 🌱 Learning more about Backend.
-- ⚡ Aspiring to be a ML engineer
+* 🌍 Aspiring ML Engineer focused on Earth Observation, satellite imagery, and geospatial AI.
+* 🛠️ Learning machine learning by building algorithms and projects from scratch.
+* 🚀 Interested in computer vision, remote sensing, and scalable ML systems.
 
 
 ## 🧠 My Focus Areas
-- Full Stack
-- AI/Ml enthusiast
-- Open source contribution
+- Machine Learning
+- Computer Vision
+- Geospatial AI
 
 
 ## 📊 GitHub Stats
